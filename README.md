@@ -27,5 +27,5 @@ The tool can:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/packet-sniffer.git
+git clone https://github.com/amar-narayan/packet-sniffer.git
 cd packet-sniffer
